@@ -1,4 +1,8 @@
 <h1 align="center">Hello World</h1>
+![Java](https://img.shields.io/badge/java-20-ed1d25?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/gradle-8.2-02303A?style=for-the-badge)
+![License](https://img.shields.io/badge/license-WTFPL-D92525?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-finished-green?style=for-the-badge)
 
 <p align="center">Output the string "Hello World!" on Standard Output.</p>
 
@@ -77,7 +81,9 @@ cd app/bin
 ```
 
 ## :technologist: Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Please make sure to update tests as appropriate.
 
 ## :scroll: License
 [WTFPL](LICENSE)
