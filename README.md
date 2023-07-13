@@ -1,10 +1,11 @@
 <h1 align="center">Hello World</h1>
-![Java](https://img.shields.io/badge/java-20-ed1d25?style=for-the-badge)
-![Gradle](https://img.shields.io/badge/gradle-8.2-02303A?style=for-the-badge)
-![License](https://img.shields.io/badge/license-WTFPL-D92525?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-finished-green?style=for-the-badge)
-
 <p align="center">Output the string "Hello World!" on Standard Output.</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-20-ed1d25?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/gradle-8.2-02303A?style=for-the-badge" alt="Gradle" />
+  <img src="https://img.shields.io/badge/license-WTFPL-D92525?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/status-finished-green?style=for-the-badge" alt="Status" />
+</div>
 
 ## :sparkles: Demo
 
