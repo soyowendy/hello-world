@@ -14,7 +14,6 @@
 ## :memo: Requirements
 
 If you want to build the project you will need:
-- [Gradle](https://gradle.org/);
 - Java Development Kit ([JDK](https://openjdk.org/));
 - unzip or tar;
 
