@@ -8,8 +8,7 @@
 </div>
 
 ## :sparkles: Demo
-
-![Terminal mostrando "Hello World!"](hello-world-demo.png)
+<img style="display: block; margin: 0 auto;" src="hello-world-demo.png" alt="Terminal mostrando 'Hello World!'" />
 
 ## :memo: Requirements
 
